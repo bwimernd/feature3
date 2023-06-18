@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publicationYear": 1960,
+      "genre": "Southern Gothic, Bildungsroman",
+      "synopsis": "A young girl named Scout navigates the prejudices and racism of the American South while her father, lawyer Atticus Finch, defends a falsely accused black man.",
+      "isbn": "978-0446310789"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "publicationYear": 1949,
+      "genre": "Dystopian, Political Fiction, Social Science Fiction",
+      "synopsis": "In a future totalitarian society, Winston Smith, who works in the Ministry of Truth, begins to rebel against the oppressive government that watches every aspect of its citizens' lives.",
+      "isbn": "978-0451524935"
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publicationYear": 1813,
+      "genre": "Romantic, Social Satire",
+      "synopsis": "Elizabeth Bennet navigates issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England.",
+      "isbn": "978-1503290563"
+    }
+  ]
+}
